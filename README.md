@@ -5,6 +5,8 @@
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+![afbeelding](https://user-images.githubusercontent.com/26089533/154683536-518d0d4a-a426-4743-b11e-33d188b72121.png)
+
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Experimenten
