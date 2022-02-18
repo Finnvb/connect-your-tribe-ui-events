@@ -49,3 +49,8 @@ a:hover {
    color:var(--secondary);
    border:var(--secondary);
 }
+.green{
+   background:var(--highlight-primary);
+   color:var(--secondary);
+   border:var(--secondary);
+}
